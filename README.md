@@ -39,7 +39,7 @@ Recommended architecture: x86_64
 
 ### Ubuntu 24.04
 
-Download the lamp.sh installation script, the database and the compressed httpdocs folder
+Download the lamp.sh installation script, or clone the repo: [https://github.com/Hector290601/lamp_installer](https://github.com/Hector290601/lamp_installer)the database and the compressed httpdocs folder
 
 This script configures a lamp stack on a new fresh installed ubuntu 24.04. To run this script, you need
 
